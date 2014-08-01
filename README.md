@@ -8,11 +8,7 @@ I created this script circa 2004 to help a relative who kept getting disconnecte
 
 The way this script works is simple: it is invoked periodically and does an HTTP HEAD request on a randomly selected website.
 
-(For those of you who are not old enough to have used a dial-up modem check out the horrible sound
-<audio controls>
-  <source src="https://raw.githubusercontent.com/robertmaldon/dial_up_keep_alive/master/56k_dial_up_modem.mp3" type="audio/mpeg"/>
-</audio>
-it made.)
+(For those of you who are not old enough to have used a dial-up modem check out the [horrible sound](https://raw.githubusercontent.com/robertmaldon/dial_up_keep_alive/master/56k_dial_up_modem.mp3) it made.)
 
 ## Installation
 
